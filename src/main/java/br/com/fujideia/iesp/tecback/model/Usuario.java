@@ -1,4 +1,4 @@
-package br.com.fujideia.iesp.tecback.model.entity;
+package br.com.fujideia.iesp.tecback.model;
 
 import br.com.fujideia.iesp.tecback.model.CartaoCredito;
 import jakarta.persistence.*;

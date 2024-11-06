@@ -31,5 +31,5 @@ public class CartaoCredito {
 
     @ManyToOne
     @JoinColumn(name = "usuario_id")
-    private br.com.fujideia.iesp.tecback.model.entity.Usuario usuario;
+    private  Usuario usuario;
 }
